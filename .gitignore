@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8af503f12c6b040b934cb046a237c75cd8565467
 # ignored files & directories
 
 *.xml
@@ -25,4 +29,8 @@
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 out/*
+=======
+out/*
+>>>>>>> 8af503f12c6b040b934cb046a237c75cd8565467
